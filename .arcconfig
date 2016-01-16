@@ -1,3 +1,4 @@
 {
-    "phabricator.uri" : "http://tostahowski.me"
+    "phabricator.uri" : "http://tostahowski.me",
+    "repository.callsign" : "WEBCHAT"
 }	
